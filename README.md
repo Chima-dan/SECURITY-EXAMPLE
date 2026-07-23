@@ -11,6 +11,16 @@ A Node.js backend project demonstrating modern web security techniques including
 - Public Key Cryptography
 - Secure Express Application
 
+## 🚀 Project Highlights
+
+- Implemented JWT-based authentication
+- Secured Express applications using Helmet
+- Configured HTTPS using TLS/SSL certificates
+- Implemented Passport.js authentication middleware
+- Applied public key cryptography concepts
+
+## ⚙ Technologies Used
+
 ### Backend
 
 - Node.js
@@ -24,6 +34,29 @@ A Node.js backend project demonstrating modern web security techniques including
 - TLS
 - SSL
 - Public Key Cryptography
+
+## ⚙ Installation
+
+git clone https://github.com/Chima-dan/SECURITY-EXAMPLE.git
+
+cd SECURITY-EXAMPLE
+
+npm install
+
+## ▶ Run
+
+npm start
+
+## Project Structure
+
+SECURITY-EXAMPLE
+  │
+- ├── src/
+- ├── routes/
+- ├── middleware/
+- ├── certificates/
+- ├── package.json
+- └── README.md
 
 ## 📚 Lessons Learned
 
@@ -39,6 +72,10 @@ A Node.js backend project demonstrating modern web security techniques including
 
 - Refresh Tokens
 - Role-Based Access Control
+
+## 📄 License
+
+This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
