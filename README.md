@@ -40,7 +40,12 @@ A Node.js backend project demonstrating modern web security techniques including
 - Refresh Tokens
 - Role-Based Access Control
 
+## 👨‍💻 Author
 
+**Amaechi Chimauche Daniel**
+
+- GitHub: https://github.com/Chima-dan
+- LinkedIn: https://linkedin.com/in/Amaechi-Chima
 
 
 
